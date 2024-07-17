@@ -52,7 +52,7 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
 - Acima: MASTER
 
-**Exercício 42**: Refaça o DESAFIO 35 dos triângulos do mundo 1. acrescentando o recurso de mostrar que tipo de triângulo será formado:
+**Exercício 42**: Refaça o [DESAFIO 35](https://github.com/CristianoAlvCobello/Python3-Mundo-1/blob/main/4%20-%20Condições%20(28%20ao%2035)/exercício35.py) dos triângulos do mundo 1. acrescentando o recurso de mostrar que tipo de triângulo será formado:
 
 - Equilátero: todos os lados iguais
 
@@ -86,4 +86,32 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
 - 3x ou mais no cartãO: 20% de juros
 
-**Exercício 45**: Crie um programe que faça o computador jogar Jokenpô com você
+**Exercício 45**: Crie um programe que faça o computador jogar Jokenpô com você.
+
+**Exercício 46**: Crie um programa que mostre na tela a contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+**Exercício 47**: Crie um programa que mostre na tela todos os números pares que estão entre 1 e 50.
+
+**Exercício 48**: Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de 3 e que se encontrar num intervalo de 1 até 500.
+
+**Exercício 49**: Refaça o [EXERCÍCIO 9](https://github.com/CristianoAlvCobello/Python3-Mundo-1/blob/main/2%20-%20Tratando%20dados%20e%20contas%20(3%20ao%2015)/exercício9.py) do mundo 1, mostrando a tabuada de um número que o usuário escolher, só que faça utilizando FOR.
+
+**Exercício50**: Desenvolva um programa que leia 6 números inteiros e mostre somente a soma daqueles que forem pares. Se o valor digitado for impar desconsidere-o.
+
+**Exercício51**: Desenvolva um programa que leia o primeiro termo e a razão de uma progressão aritmética. No final, mostre os 10 primeiros termos dessa progressão.
+
+**Exercício52**: Faça um programa que leia um número inteiro e diga se ele é ou não um número primo. (DUVIDA)
+
+**Exercício53**: Crie um programa que leia uma frase qualquer e diga se ela é um palindromo, desconsiderando os espaços.
+
+**Exercício54**: Crie um programa que leia o ano de nascimento de 7 pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quanta já são maiores.
+
+**Exercício55**: Faça um programa que leia o peso de 5 pessoas. No final, mostre qual foi o menor e o maior peso lidos.
+
+**Exercício56**: Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa mostre:
+
+- A média de idade do grupo
+
+- Qual o nome do homem mais velho
+
+- quantas mulheres têm menos de 20 anos
