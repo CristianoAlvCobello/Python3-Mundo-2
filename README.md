@@ -115,3 +115,33 @@ Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 - Qual o nome do homem mais velho
 
 - quantas mulheres têm menos de 20 anos
+
+**Exercício57**: Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peçã a digitação novamente até ter um valor correto.
+
+**Exercício58**: Melhore o jogo do [DESAFIO 28](https://github.com/CristianoAlvCobello/Python3-Mundo-1/blob/main/4%20-%20Condições%20(28%20ao%2035)/exercício28.py) onde o computador vai "pensar" em um número entre 0 e 10. só que agora o jogador vair tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+
+**Exercício59**: Crie um programa que leia dois valores e mostre um menu na tela: 
+
+- 1 (Somar)
+
+- 2 (Multiplicar)
+
+- 3 (Maior)
+
+- 4 (Novos números)
+
+- 5 (Sair do programa)
+
+Seu programa deverá realizar a operação solicitada em cada caso.
+
+**Exercício60**: Faça um programa que leia um número qualquer e mostre o seu fatorial. Tente utilizar as duas estruturas de repetição "For" e "While". Ex: 5! = 5x4x3x2x1 = 120
+
+**Exercício61**: Refaça o (DESAFIO 51)[https://github.com/CristianoAlvCobello/Python3-Mundo-2/blob/main/2%20-%20Repetições%20For%20(46%20ao%2056)/exercício51.py], lendo o primeiro e a razão de uma progressão aritmética, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+
+**Exercício62**: Melhore o (DESAFIO 61), perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.
+
+**Exercício63**: Escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma sequência de fibonacci. Ex: 0 - 1 - 1 - 2 - 3
+
+**Exercício64**: Crie um programa que leia vários números inteiros pelo teclado. Oprograma só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números forma digitados e qual foi a soma entre eles (desconsiderando o flag).
+
+**Exercício65**: Crie um programa que leia vários números inteiros pelo teclado. No final da exercução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar.
