@@ -136,9 +136,9 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 
 **Exercício60**: Faça um programa que leia um número qualquer e mostre o seu fatorial. Tente utilizar as duas estruturas de repetição "For" e "While". Ex: 5! = 5x4x3x2x1 = 120
 
-**Exercício61**: Refaça o (DESAFIO 51)[https://github.com/CristianoAlvCobello/Python3-Mundo-2/blob/main/2%20-%20Repetições%20For%20(46%20ao%2056)/exercício51.py], lendo o primeiro e a razão de uma progressão aritmética, mostrando os 10 primeiros termos da progressão usando a estrutura while.
+**Exercício61**: Refaça o [DESAFIO 51](https://github.com/CristianoAlvCobello/Python3-Mundo-2/blob/main/2%20-%20Repetições%20For%20(46%20ao%2056)/exercício51.py), lendo o primeiro e a razão de uma progressão aritmética, mostrando os 10 primeiros termos da progressão usando a estrutura while.
 
-**Exercício62**: Melhore o (DESAFIO 61), perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.
+**Exercício62**: Melhore o [DESAFIO 61],(https://github.com/CristianoAlvCobello/Python3-Mundo-2/blob/main/3%20-%20Repeti%C3%A7%C3%B5es%20While%20%2857%20ao%2071%29%2Fexerc%C3%ADcio61.py)perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.
 
 **Exercício63**: Escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma sequência de fibonacci. Ex: 0 - 1 - 1 - 2 - 3
 
