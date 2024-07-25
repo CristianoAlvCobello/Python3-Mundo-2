@@ -27,7 +27,6 @@ while True:
     if resposta == 'i':
         if soma%2 != 0:
             print('\033[1;32mVocê Ganhou\033[m')
-            print(maquina)
             contador = contador+1
             soma = 0
         else:
